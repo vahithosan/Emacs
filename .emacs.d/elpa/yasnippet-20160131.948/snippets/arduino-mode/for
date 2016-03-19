@@ -2,7 +2,7 @@
 # name: for
 # key: for
 # --
-for (${1:Değişken}=${2:BaşlangıçDeğeri};$1<${3:BitişDeğeri};++$1) 
+for (${1:Değişken}=${2:BaşlangıçDeğeri};$1<${3:BitişDeğeri};$1++) 
 {
     $0
 }
