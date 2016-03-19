@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: switch
+# key: switch
+# --
+// Son yaylı parantezi kapatmayı unutma !
+switch (${1:Değer})
+{
+$0
+

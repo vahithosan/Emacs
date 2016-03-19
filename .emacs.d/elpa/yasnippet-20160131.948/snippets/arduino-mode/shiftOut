@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name : shitOut()
+# key: shiftOut
+# --
+shiftOut(${1:dataPin},${2:clockPin},${3:$$(yas/choose-value '("MSBFIRST" "LSBFIRST"))},${4:value});
+$0
+
+

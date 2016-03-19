@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name : analogRead()
+# key: analogRead
+# --
+analogRead(${1:pin});
+$0

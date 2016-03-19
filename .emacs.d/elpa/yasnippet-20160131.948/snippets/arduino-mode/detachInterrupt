@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name : detachInterrupt()
+# key: detachInterrupt
+# --
+detachInterrupt(${1:pin});
+$0

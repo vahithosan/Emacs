@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name : constrain()
+# key: constrain
+# --
+constrain(${1:Değer},${2:AltSınır},${3:ÜstSınır});
+$0

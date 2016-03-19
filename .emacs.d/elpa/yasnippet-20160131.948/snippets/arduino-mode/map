@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : map
+#key: map
+# --
+map(${1:Değer},${2:EnDüşükDeğer},${3:EnYüksekDeğer},${4:AltSınır},${5:ÜstSınır});
+$0

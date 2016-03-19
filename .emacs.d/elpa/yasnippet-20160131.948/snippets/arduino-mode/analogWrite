@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name : analogWrite()
+# key: analogWrite
+# --
+analogWrite(${1:pin},${2:Değer});
+$0

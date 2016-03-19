@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: void
+# key: void
+# --
+void ${1:FonksiyonAdı}(${2:BağlıDeğişken}) 
+{
+    $0
+}

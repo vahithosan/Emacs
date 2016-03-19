@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name : delay()
+# key: delay
+# --
+delay(${1:Değer});
+$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name : millis()
+# key: millis
+# --
+millis(${1:Değer});
+$0

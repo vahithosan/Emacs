@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name : pulseIn()
+# key: pulseIn
+# --
+pulseIn(${1:pin},${2:Değer});
+$0

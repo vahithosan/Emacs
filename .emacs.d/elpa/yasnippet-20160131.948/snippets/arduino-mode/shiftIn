@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name : shitIn()
+# key: shiftIn
+# --
+shiftIn(${1:dataPin},${2:clockPin},${3:$$(yas/choose-value '("MSBFIRST" "LSBFIRST"))});
+$0
+
+

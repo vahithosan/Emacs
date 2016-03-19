@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name : attachInterrupt()
+# key: attachInterrupt
+# --
+attachInterrupt(${1:pin},${2:FonksiyonAdı};${3:$$(yas/choose-value '("LOW" "CHANGE" "RISING" "FALLING"))});
+$0

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: case
+# key: case
+# --
+yes7case ${1:Değer}:
+${2:Tanımlamalar}
+break;
+$0
