@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF: -1 tvg-id="TRT1.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/2e8f5526-766a-4e93-a11f-af8bc0455689.png" group-title="Genel", TRT 1 HD
 http://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF: -1 tvg-id="TRT2.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/56f6b448-ad1b-4760-aad4-54f8f364ad37.png" group-title="Genel", TRT 2 HD
@@ -40,16 +41,12 @@ http://dogus-live.daioncdn.net/startv/playlist.m3u8
 http://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF: -1 tvg-id="TV8.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/394c5a3d-de9f-4a05-a268-ea8100d7e7ea.png" group-title="Genel", TV 8 HD
 http://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF: -1 tvg-id="TV85.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/8f3e4926-7cbd-47fb-9015-b4040a91b311.png" group-title="Genel", TV8.5 HD
-http://tv85dvr.blutv.com/blutv_tv8_5_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF: -1 tvg-id="Teve2.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/bf00b7e4-21dc-42d1-812f-bc59bf67c67e.png" group-title="Genel", teve2 HD
 http://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF: -1 tvg-id="Kanal7.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/ce2fa5d6-80be-4db3-88cc-493a8a3ea655.png" group-title="Genel", KANAL 7 HD
-http://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF: -1 tvg-id="BeyazTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/19caa45e-9f6e-489f-a86c-2dec06012d86.png" group-title="Genel", BEYAZ TV HD
 http://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-id="CemTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/5a82dd69-49ab-4aea-addd-958382d94fca.png" group-title="Genel", CEM TV
-http://iptvmasterlink.dyndns.org:8080/CemTv/playlist.m3u8
 #EXTINF: -1 tvg-id="TRTWorld.tr" group-title="Genel", TRT WORLD HD
 http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF: -1 tvg-id="TRTSpor.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/5bab51c5-0efb-49a8-9dc0-8f3fdd85eec8.png" group-title="Genel", TRT SPOR HD
@@ -72,20 +69,8 @@ http://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
 http://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 #EXTINF: -1 tvg-id="EBATVLise.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/095d92e1-d1e2-48d0-aa38-235915d7293d.png" group-title="Genel", TRT EBA TV LİSE
 http://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
-#EXTINF: -1 tvg-id="CartoonNetworkTurkey.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/b9caf906-69ce-443d-b5d8-81f6c7baaad6.png" group-title="Genel", CARTOON NETWORK
-http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
-#EXTINF: -1 tvg-id="MinikaCocuk.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/347a440b-4f6f-45a8-97b6-ecea89581f66.png" group-title="Genel", MİNİKA ÇOCUK
-http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.minikacocuk.com.tr/webtv/canli-yayin
-#EXTINF: -1 tvg-id="MinikaGo.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/00af72b2-479c-4c8c-b060-0115ac028bc6.png" group-title="Genel", MİNİKA GO
-http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
 #EXTINF: -1 tvg-id="TRTCocuk.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/3e16f055-ea79-48e6-bb77-0522c680f63d.png" group-title="Genel", TRT ÇOCUK HD
 http://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF: -1 tvg-id="BenguTurk.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/def85e18-d7ee-45bb-a7a9-ab117e011811.png" group-title="Genel", BENGÜ TÜRK HD
-http://iptvmasterlink.dyndns.org:8080/BenguTurk/playlist.m3u8
-#EXTINF: -1 tvg-id="UlusalKanal.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/34edb290-d096-44ce-a670-b5ca97fabe5e.png" group-title="Genel", ULUSAL TV
-http://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/index.m3u8
-#EXTINF: -1 tvg-id="CiftciTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/b0dd8e2d-ccb8-4e27-a4aa-254ff3b5aeb3.png" group-title="Genel", ÇIFTÇI TV
-http://waw3.artiyerelmedya.net/ciftcitv/bant1/playlist.m3u8
 #EXTINF: -1 tvg-id="TarimTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/b999b70b-7621-43b0-921b-a145c4f03b7c.png" group-title="Genel", TARIM TV
 http://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-720p.m3u8
 #EXTINF: -1 tvg-id="TV4.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/fd705774-2db4-4234-a18a-2d792280ada6.png" group-title="Genel", TV4 HD
@@ -94,8 +79,6 @@ http://mn-nl.mncdn.com/blutv_tv4/live_360p500000kbps/index.m3u8
 http://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8
 #EXTINF: -1 tvg-id="PowerTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/f8293e04-da5c-460b-8bb6-7c700497f79d.png" group-title="Genel", POWER TV HD
 http://mn-nl.mncdn.com/blutv_power2/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-id="DreamTurk.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/24b9dea9-b8e6-4d95-a7d8-75a37cee2cb8.png" group-title="Genel", DREAM TÜRK
-http://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8
 #EXTINF: -1 tvg-id="Number1Turk.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/8c209aef-5802-4649-9dd6-d3ab7cd96974.png" group-title="Genel", NR1TÜRK HD
 http://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
 #EXTINF: -1 tvg-id="PowerTurkTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/1716c188-f94b-43bb-88f7-a16b5aa839e3.png" group-title="Genel", POWERTÜRK
@@ -104,57 +87,9 @@ http://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/index.m3u8
 http://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/index.m3u8
 #EXTINF: -1 tvg-id="TRTMuzik.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/032bc15f-bc31-44c2-9049-27a0ddc0ecd0.png" group-title="Genel", TRT MÜZİK
 http://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF: -1 tvg-id="Number1Ask.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/df6b924f-1b1c-4f3e-8eb7-1aeb0aff3c33.png" group-title="Genel", NR1 AŞK HD
-http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.dailymotion.com/video/x67ch24
-#EXTINF: -1 tvg-id="Number1Damar.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/b29a2e64-5e88-4949-9b3d-d9945d95c75f.png" group-title="Genel", NR1 DAMAR HD
-http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.dailymotion.com/video/x67ch8g
-#EXTINF: -1 tvg-id="Number1Dance.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/46abd377-46f9-4ffa-8634-6bd9efb7e35d.png" group-title="Genel", NR1 DANCE HD
-http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.dailymotion.com/video/x67chco
-#EXTINF: -1 tvg-id="AkilliTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/579dbf0e-ec89-4e4a-893a-2cae982a8b99.png" group-title="Genel", AKILLI TV
-http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 #EXTINF: -1 tvg-id="TRTTurk.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/8ea87965-bed0-40a7-a31a-1209612ee8d8.png" group-title="Genel", TRT TURK HD
 http://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF: -1 tvg-id="TRTArabi.tr" group-title="Genel", TRT ARAPÇA HD
-http://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 #EXTINF: -1 tvg-id="TRTAvaz.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/6663b40a-3ea0-426d-a901-7dd6d56c9e2c.png" group-title="Genel", TRT AVAZ HD
 http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF: -1 tvg-id="DiyanetTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/25484f25-45a3-4176-be76-4113f788c577.png" group-title="Genel", DİYANET TV
 http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF: -1 tvg-id="On6.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/74fb3428-a486-4a90-8197-fac70a7723a1.png" group-title="Genel", ON6 TV
-http://waw3.artiyerelmedya.net/kanal16/bant1/playlist.m3u8
-#EXTINF: -1 tvg-id="KonTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/35b2b172-478d-438c-8cdd-719fb0d0f71d.png" group-title="Genel", KON TV
-http://mn-nl.mncdn.com/blutv_kontv2/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-id="CanTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/6614c119-6997-400b-9b23-03bcea3e90c5.png" group-title="Genel", CAN TV
-http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF: -1 tvg-id="Kanal26.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/e23fc92c-203c-4d91-aa70-e0d9bdeffd2a.png" group-title="Genel", KANAL 26
-http://waw3.artiyerelmedya.net/kanal26/bant1/playlist.m3u8
-#EXTINF: -1 tvg-id="BRT1.cy" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/beda28ac-c11e-47ad-bfc9-0b0d05c537f5.png" group-title="Genel", BRT 1 HD
-http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
-#EXTINF: -1 tvg-id="BRT2.cy" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/096c6c21-28ac-442d-bf07-a56b90a8e873.png" group-title="Genel", BRT 2 HD
-http://wms.brtk.net:1935/live/brt1/playlist.m3u8
-#EXTINF: -1 tvg-id="KibrisGencTV.cy" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/eb9bbecb-5c4c-4570-bf1b-97907de811ac.png" group-title="Genel", GENÇ TV
-https://59cba4d34b678.streamlock.net/canlitv/kibrisgenctv/playlist.m3u8
-#EXTINF: -1 tvg-id="KibrisTV.cy" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/9a438631-e374-4518-a717-5cd2585bd43a.png" group-title="Genel", KTV
-http://play.kibrisfm.com/hls/canli1.m3u8
-#EXTINF: -1 tvg-id="KibrisKanalT.cy" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/dc724763-8a5a-4772-be6b-caa3d76b729d.png" group-title="Genel", KANAL T
-https://59cba4d34b678.streamlock.net/canlitv/kibriskanalt/playlist.m3u8
-#EXTINF: -1 tvg-id="AdaTV.cy" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/85558d83-bcb8-49e6-80da-697c3a8d4411.png" group-title="Genel", ADA TV
-https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/playlist.m3u8
-#EXTINF: -1 tvg-id="KanalSim.cy" group-title="Genel", SİM TV
-https://59cba4d34b678.streamlock.net/canlitv/simtv/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/47301dc8-54a0-4a96-a774-5cdb8db26f98.png" group-title="Genel", BLUTV KOMEDİ
-http://mn-nl.mncdn.com/blutv_komedi_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/d584de30-a47d-4d88-a0bd-799768598b34.png" group-title="Genel", BLUTV AKSİYON
-http://mn-nl.mncdn.com/blutv_aksiyon_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/62936635-7778-43aa-82f6-e6519da3a265.png" group-title="Genel", BLUTV ÖZEL YAPIM
-http://mn-nl.mncdn.com/blutv_ozelyapim_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/023ecc93-e253-430b-acd6-e01c77d6461c.png" group-title="Genel", BLUTV NOSTALJİ
-http://mn-nl.mncdn.com/blutv_nostalji_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/6ad58bbd-0cf3-4fdb-9af7-16704b101eab.png" group-title="Genel", BLUTV BELGESEL
-http://mn-nl.mncdn.com/blutv_belgesel_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/8a963949-fdb5-4004-8b39-fd327aa88b1c.png" group-title="Genel", BLUTV KİDS
-http://mn-nl.mncdn.com/blutv_cocuk_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 group-title="Genel", BLUTV PLAY 1
-https://mn-nl.mncdn.com/blutv_play1_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 group-title="Genel", BLUTV PLAY 2
-https://mn-nl.mncdn.com/blutv_play2_dvr/live_720p2000000kbps/index.m3u8
