@@ -57,8 +57,6 @@ http://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 http://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF: -1 tvg-id="SportsTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/dc33f25b-03d7-4890-9ee8-1de61de15feb.png" group-title="Genel", SPORTS TV
 http://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-id="TAYTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/cccc2413-1960-4476-ab8d-0cb9b9511fc4.png" group-title="Genel", TAY TV
-http://mn-nl.mncdn.com/blutv_taytv2/live_720p2000000kbps/index.m3u8
 #EXTINF: -1 tvg-id="TJKTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/ce140f08-b6e8-413d-ab22-6c5760a7b1ea.png" group-title="Genel", TJK TV
 http://tjktv.ercdn.net/tjktv.m3u8
 #EXTINF: -1 tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/749bf200-220f-405c-8338-4ed80747e508.png" group-title="Genel", TBMM TV
@@ -95,7 +93,3 @@ http://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF: -1 tvg-id="DiyanetTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/25484f25-45a3-4176-be76-4113f788c577.png" group-title="Genel", DİYANET TV
 http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="YANSIMA Klasik" tvg-logo="  https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnqd9MMDintAoyNlZ0auLUY2ZvztJF463rwGr-O5Dnhw8cTJxef7cTOwPzoFD61kCG6Hg8ykmZ6DE6svUb-40PGJaoywE9iEJ7uh_V6o1q0LFVJG5KZekcoMVgr1X9Lw6LT-h3tygQJG6Dqg9FYeZSU0FtuLiAlZ-bTrazs0cBmSALMcVRWEr_jWeexA/s1600/classic.jpg  " group-title="TURQUIA",Yansıma Classic
-https://stream.mylive.in.th/live/yansimaclassic/yansimaclassic.m3u8
-#EXTINF:-1 tvg-id="YANSIMA SİNEMA" tvg-logo="  https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1eYQOGF6-ELbkd5rIxFwqU5d2_zshA6n7L9DRruWGm_g-W5NoBwgO5lHoNPv6Kz0myhpb6VVdZDiXEk_hwH5JY2uAXqAMiGf8IVhR3NuB48KPLXviOEIJqgFvZbR_xWQXIX-w1NuCQ_zi_-RFxHmDdV8DLvfmQYiKzn-GMnNMNrri7tLTFgqN8Uv1qg/s1600/sinema.jpg  " group-title="TURQUIA",Yansıma Sinema
-https://stream.mylive.in.th/live/yansimatv/yansimatv.m3u8
