@@ -29,8 +29,6 @@ http://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
 http://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF: -1 tvg-id="BloombergHT.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/b164ae9e-ca58-457d-9a35-c10df0c82ff7.png" group-title="Genel", BLOOMBERG HT
 http://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/1fe8d10c-f8ae-4e8f-8f40-e1e1ead0f92e.png" group-title="Genel", ARTI TV HD
-http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.youtube.com/channel/UCxVicskgBc8OD66iLKc7Uaw/live
 #EXTINF: -1 tvg-id="DMAXTurkey.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/30951752-87e2-401c-8c6b-1d2aaaecdd05.png" group-title="Genel", DMAX HD
 http://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF: -1 tvg-id="TLCTurkey.us" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/bf8d5574-eba6-4fe0-83c9-feca7c47591d.png" group-title="Genel", TLC HD
