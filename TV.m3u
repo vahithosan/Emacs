@@ -7,18 +7,18 @@ http://tv-trt2.medya.trt.com.tr/master_720.m3u8
 http://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF: -1 tvg-id="KRT.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/8b0cd26d-1211-485b-87f7-f648e33c44f1.png" group-title="Genel", KRT TV HD
 http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-id="SZC TV" tvg-logo=""tvg-id="" group-title="Genel",Sozcu TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Genel",SÖZCÜ Televizyonu (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 #EXTINF: -1 tvg-id="HalkTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/6fa0122a-ab6e-4236-9a2d-968815a1418f.png" group-title="Genel", HALK TV HD
 http://halktv.blutv.com/blutv_halktv_live/live_720p2000000kbps/index.m3u8
 #EXTINF: -1 tvg-id="Tele1.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/3d470a29-90b3-46b3-8254-5f54ea91a32d.png" group-title="Genel", TELE1
 http://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-id="NTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/306fa662-2e64-46f9-a1a9-03953cb4e15b.png" group-title="Genel", NTV HD
-http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF: -1 tvg-id="Haberturk.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/ff198a17-f1ca-44d8-813e-3c7f1e3dcd92.png" group-title="Genel", HABERTÜRK HD
-http://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-#EXTINF: -1 tvg-id="HaberGlobal.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/030fc425-6687-4d42-8146-471dcc8202f0.png" group-title="Genel", HABER GLOBAL
-http://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://i.imgur.com/jXbs8FZ.png" group-title="Genel",NTV (720p) [Not 24/7]
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://i.imgur.com/fu6XeGS.png" group-title="News",Haber Global (720p) [Not 24/7]
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-logo="https://i.imgur.com/sUFh3Qr.png" group-title="News",Habertürk TV (720p)
+https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
 #EXTINF: -1 tvg-id="TV100.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/e9bd1848-30e3-4798-bc39-a35b611771ba.png" group-title="Genel", TV 100 HD
 http://tv100.blutv.com/blutv_tv100_live/live_720p2000000kbps/index.m3u8
 #EXTINF: -1 tvg-id="FlashTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" group-title="Genel", FLASH HABER HD
