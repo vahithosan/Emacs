@@ -43,6 +43,8 @@ http://dogus-live.daioncdn.net/startv/playlist.m3u8
 http://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF: -1 tvg-id="TV8.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/394c5a3d-de9f-4a05-a268-ea8100d7e7ea.png" group-title="Genel", TV 8 HD
 http://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 tvg-id="TV85.tr",TV8.5
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="Teve2.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/bf00b7e4-21dc-42d1-812f-bc59bf67c67e.png" group-title="Genel", teve2 HD
 http://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF: -1 tvg-id="Kanal7.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/ce2fa5d6-80be-4db3-88cc-493a8a3ea655.png" group-title="Genel", KANAL 7 HD
