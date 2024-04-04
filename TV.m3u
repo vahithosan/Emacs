@@ -21,16 +21,12 @@ https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
 https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
 #EXTINF: -1 tvg-id="TV100.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/e9bd1848-30e3-4798-bc39-a35b611771ba.png" group-title="Genel", TV 100 HD
 http://tv100.blutv.com/blutv_tv100_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="FlashTV.tr" tvg-logo="https://i.imgur.com/L0NHKBM.png" group-title="Genel",Flash TV (720p)
-https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-logo="https://i.imgur.com/TMTnMI3.png" group-title="Genel",Ekotürk (720p)
 https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
 #EXTINF: -1 tvg-id="TRTHaber.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/6cd29963-ee35-4d91-9b0f-96d9030e6399.png" group-title="Genel", TRT HABER HD
 http://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Genel",Bloomberg HT (720p) [Not 24/7]
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
-#EXTINF: -1 tvg-id="DMAXTurkey.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/30951752-87e2-401c-8c6b-1d2aaaecdd05.png" group-title="Genel", DMAX HD
-http://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF: -1 tvg-id="TLCTurkey.us" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/bf8d5574-eba6-4fe0-83c9-feca7c47591d.png" group-title="Genel", TLC HD
 http://dogus-live.daioncdn.net/tlc/playlist.m3u8
 #EXTINF: -1 tvg-id="KanalD.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/1cf4d482-3dcb-4e21-b187-0f3985e80013.png" group-title="Genel", KANAL D HD
@@ -41,8 +37,7 @@ http://dogus-live.daioncdn.net/startv/playlist.m3u8
 http://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF: -1 tvg-id="TV8.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/394c5a3d-de9f-4a05-a268-ea8100d7e7ea.png" group-title="Genel", TV 8 HD
 http://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 tvg-id="TV85.tr",group-title="Genel", TV 8 HD
-http://tv8-live.daioncdn.net/tv8/tv8.m3u8TV8.5
+#EXTINF:-1 tvg-id="TV85.tr",group-title="Genel", TV 85 HD
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="Teve2.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/bf00b7e4-21dc-42d1-812f-bc59bf67c67e.png" group-title="Genel", teve2 HD
 http://demiroren-live.daioncdn.net/teve2/teve2.m3u8
@@ -95,5 +90,3 @@ http://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF: -1 tvg-id="TJKTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/ce140f08-b6e8-413d-ab22-6c5760a7b1ea.png" group-title="Genel", TJK TV
 http://tjktv.ercdn.net/tjktv.m3u8
-#EXTINF:-1 tvg-id="NTVSpor.tr",NTV Spor
-http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8
