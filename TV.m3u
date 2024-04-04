@@ -41,7 +41,8 @@ http://dogus-live.daioncdn.net/startv/playlist.m3u8
 http://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF: -1 tvg-id="TV8.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/394c5a3d-de9f-4a05-a268-ea8100d7e7ea.png" group-title="Genel", TV 8 HD
 http://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 tvg-id="TV85.tr",TV8.5
+#EXTINF:-1 tvg-id="TV85.tr",group-title="Genel", TV 8 HD
+http://tv8-live.daioncdn.net/tv8/tv8.m3u8TV8.5
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="Teve2.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/bf00b7e4-21dc-42d1-812f-bc59bf67c67e.png" group-title="Genel", teve2 HD
 http://demiroren-live.daioncdn.net/teve2/teve2.m3u8
@@ -51,14 +52,6 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 http://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF: -1 tvg-id="TRTWorld.tr" group-title="Genel", TRT WORLD HD
 http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
-#EXTINF: -1 tvg-id="TRTSpor.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/5bab51c5-0efb-49a8-9dc0-8f3fdd85eec8.png" group-title="Genel", TRT SPOR HD
-http://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF: -1 tvg-id="TRTSporYildiz.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/06ce3106-3fdb-4703-bc19-51ace99098a4.png" group-title="Genel", TRT SPOR YILDIZ
-http://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF: -1 tvg-id="SportsTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/dc33f25b-03d7-4890-9ee8-1de61de15feb.png" group-title="Genel", SPORTS TV
-http://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
-#EXTINF: -1 tvg-id="TJKTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/ce140f08-b6e8-413d-ab22-6c5760a7b1ea.png" group-title="Genel", TJK TV
-http://tjktv.ercdn.net/tjktv.m3u8
 #EXTINF: -1 tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/749bf200-220f-405c-8338-4ed80747e508.png" group-title="Genel", TBMM TV
 http://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF: -1 tvg-id="TRTBelgesel.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/b4c083b7-efe3-4133-89ba-10c503d69d84.png" group-title="Genel", TRT BELGESEL
@@ -94,3 +87,11 @@ http://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 http://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF: -1 tvg-id="DiyanetTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/25484f25-45a3-4176-be76-4113f788c577.png" group-title="Genel", DİYANET TV
 http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="TRTSpor.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/5bab51c5-0efb-49a8-9dc0-8f3fdd85eec8.png" group-title="Genel", TRT SPOR HD
+http://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF: -1 tvg-id="TRTSporYildiz.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/06ce3106-3fdb-4703-bc19-51ace99098a4.png" group-title="Genel", TRT SPOR YILDIZ
+http://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF: -1 tvg-id="SportsTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/dc33f25b-03d7-4890-9ee8-1de61de15feb.png" group-title="Genel", SPORTS TV
+http://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
+#EXTINF: -1 tvg-id="TJKTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/ce140f08-b6e8-413d-ab22-6c5760a7b1ea.png" group-title="Genel", TJK TV
+http://tjktv.ercdn.net/tjktv.m3u8
