@@ -95,3 +95,5 @@ http://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 http://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
 #EXTINF: -1 tvg-id="TJKTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/ce140f08-b6e8-413d-ab22-6c5760a7b1ea.png" group-title="Genel", TJK TV
 http://tjktv.ercdn.net/tjktv.m3u8
+#EXTINF:-1 group-title="Genel",A SPOR
+http://hdtvizle.ru/14452/71930/71968/aspor1.m3u8
