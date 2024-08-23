@@ -4,7 +4,6 @@ http://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF: -1 tvg-id="TRT2.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/56f6b448-ad1b-4760-aad4-54f8f364ad37.png" group-title="Genel", TRT 2 HD
 http://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF: -1 tvg-id="FoxTurkey.us" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/e79397a0-ec34-41aa-97b5-9323f1296383.png" group-title="Genel", FOX TV HD
-#https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 http://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="KRT.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/8b0cd26d-1211-485b-87f7-f648e33c44f1.png" group-title="Genel", KRT TV HD
 http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
