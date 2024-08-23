@@ -7,7 +7,7 @@ http://tv-trt2.medya.trt.com.tr/master_720.m3u8
 http://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="KRT.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/8b0cd26d-1211-485b-87f7-f648e33c44f1.png" group-title="Genel", KRT TV HD
 http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Genel",SÖZCÜ Televizyonu
+#EXTINF:-1 tvg-id="SZC.tr" tvg-logo="" group-title="Genel",SÖZCÜ Televizyonu
 https://szctv.blutv.com/blutv_szctv/live_720p2000000kbps/index.m3u8
 #EXTINF: -1 tvg-id="HalkTV.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/6fa0122a-ab6e-4236-9a2d-968815a1418f.png" group-title="Genel", HALK TV HD
 http://halktv.blutv.com/blutv_halktv_live/live_720p2000000kbps/index.m3u8
