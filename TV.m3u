@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF: -1 tvg-id="TRT1.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/2e8f5526-766a-4e93-a11f-af8bc0455689.png" group-title="Genel", TRT 1 HD
-http://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF: -1 tvg-id="TRT2.tr" tvg-logo="http://wmxznm9feqh3.merlincdn.net/assets/56f6b448-ad1b-4760-aad4-54f8f364ad37.png" group-title="Genel", TRT 2 HD
 http://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF: -1 tvg-id="NOWTV.tr" tvg-logo="https://tpsbayxekmes.merlincdn.net//img/logos/logo.svg" group-title="Genel", NOW TV
