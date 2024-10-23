@@ -29,15 +29,15 @@ http://stream.tvcdn.net/ulusal/tv-100.m3u8
 http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png" group-title="Genel",Ekotürk
 http://stream.tvcdn.net/ekonomi/ekoturk.m3u8
-#EXTINF:-1 tvg-id="Finans Türk" tvg-logo="http://assets.tvcdn.net/4e98253f-f791-42da-8497-51e821dde886.png" group-title="Genel",Finans Türk
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4e98253f-f791-42da-8497-51e821dde886.png" group-title="Genel",Finans Türk
 http://stream.tvcdn.net/ekonomi/finans-turk.m3u8
 #EXTINF:-1 tvg-id="CNBCe.tr" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png" group-title="Genel",CNBC-e
 http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
-#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" group-title="Genel",Geneltürk
+#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" group-title="Genel",Habertürk
 http://stream.tvcdn.net/haber/haberturk.m3u8
-#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="Genel",Genel Global
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="Genel",Haber Global
 http://stream.tvcdn.net/haber/haber-global.m3u8
-#EXTINF:-1 tvg-id="TRTGenel.tr" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png" group-title="Genel",TRT Genel
+#EXTINF:-1 tvg-id="TRTGenel.tr" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png" group-title="Genel",TRT Haber
 http://stream.tvcdn.net/haber/trt-haber.m3u8
 #EXTINF:-1 tvg-id="TBMM.tr" tvg-logo="http://assets.tvcdn.net/370c4e6f-8d30-400c-b298-c6a37b19e5dd.png" group-title="Genel",TBMM TV
 http://stream.tvcdn.net/haber/tbmm-tv.m3u8
@@ -79,8 +79,6 @@ http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 http://stream.tvcdn.net/ulusal/360-tv.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Genel",Sports TV
 http://stream.tvcdn.net/spor/sports-tv.m3u8
-#EXTINF:-1 tvg-id="beINSportsGenel.tr" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="Genel",beIN Sports Genel
-http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
 #EXTINF:-1 tvg-id="TivibuSpor.tr" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="Genel",Tivibu Spor
 http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="Genel",FB TV
